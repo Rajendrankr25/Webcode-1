@@ -1,0 +1,35 @@
+h1{
+    text-align: left;
+    margin: 50px 0px;
+    color: goldenrod;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+}
+body{
+    background-image: url(./beerMug.jpg);
+    background-repeat:repeat;
+    background-attachment:fixed;
+    background-size: 100% 100%;
+}
+.container{
+    text-align: left;
+}
+button{
+    margin: 20px 0px;
+    display: block;
+}
+.card{
+    margin: 30px 10px;
+    padding: 0px 20px 20px 20px;
+}
+.form-control{
+    width: 60%;
+}
+.navbar{
+    font-family:fantasy;
+    font-style:normal;
+}
+span{
+    display: block;
+    color: white;
+}
